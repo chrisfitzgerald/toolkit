@@ -1,7 +1,7 @@
 #FULLTEXTCATALOGPROPERTY PopulateCompletionAge	
 #The difference in seconds between the completion of the last full-text index population and 01/01/1990 00:00:00.
 
-##Uncomment the following line if you recieve the error '.ps1 is not digitall signed' 
+##Uncomment the following line if you recieve the error '.ps1 is not digitally signed' 
 ##Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 $PopulateCompletionAge = 234234 ##enter seconds value from PopulateCompleteionAge column
